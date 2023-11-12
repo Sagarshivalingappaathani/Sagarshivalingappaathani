@@ -12,3 +12,18 @@
 
 
 [![Sagar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarshivalingappaathani&theme=github-dark-dimmed&custom_title=this.Sag@0418's%20Activity%20Graph&hide_border=true)](https://github.com/Sagarshivalingappaathani)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+
+
+## Skills
+- Web Development: HTML, CSS, JavaScript, React,Next.js
+- Backend Development: Node.js, Express
+- Database: MongoDB, MySQL,FireBase
+- Version Control: Git, GitHub
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sagar-athani-4a5931251/)
+
+Feel free to reach out! Let's connect and collaborate on exciting projects. 😊🚀
