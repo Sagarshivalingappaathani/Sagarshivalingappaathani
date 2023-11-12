@@ -11,7 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarshivalingappaathani&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" align="right">
 </div>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Sagarshivalingappaathani=Darlington02&theme=monokai)
 
 [![Sagar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarshivalingappaathani&theme=github-dark-dimmed&custom_title=this.Sag@0418's%20Activity%20Graph&hide_border=true)](https://github.com/Sagarshivalingappaathani)
 
