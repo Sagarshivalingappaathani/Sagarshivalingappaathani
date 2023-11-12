@@ -17,11 +17,6 @@
 
 
 
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-
-
 ## Skills
 - Frontend Development: HTML, CSS, JavaScript, React,Next.js
 - Backend Development: Node.js, Express
