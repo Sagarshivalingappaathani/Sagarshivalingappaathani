@@ -1,7 +1,6 @@
 # Hi there 👋
-### I am 2nd year B.Tech Student in NITK specializing in Information Technology, with a keen interest in leveraging technology to drive innovation. I am eager to contribute my expertise to impactful projects in IT Industry.
+## I'm Sagar, a passionate 2nd year B.Tech student at NITK, specializing in Information Technology. Currently diving deep into Full Stack Web Development, I'm a tech enthusiast exploring the intersections of code and creativity. In the dynamic world of tech, I find joy in crafting innovative solutions and embracing the realms of technology-driven innovation. 💻🚀✨
 
-- ### 🔭 I’m currently working on Full stack Web Devlopment
 
 
 ## Profile Views
@@ -18,7 +17,7 @@
 
 
 ## Skills
-- Web Development: HTML, CSS, JavaScript, React,Next.js
+- Frontend Development: HTML, CSS, JavaScript, React,Next.js
 - Backend Development: Node.js, Express
 - Database: MongoDB, MySQL,FireBase
 - Version Control: Git, GitHub
