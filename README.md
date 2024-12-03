@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-#### **I'm Sagar, a passionate 2nd year B.Tech student at NITK, specializing in Information Technology. Currently diving deep into Full Stack Web Development, I'm a tech enthusiast exploring the intersections of code and creativity.**
+#### **I'm Sagar, a passionate 3rd year B.Tech student at NITK, specializing in Information Technology. Currently diving deep into Full Stack Web Development, I'm a tech enthusiast exploring the intersections of code and creativity.**
 
 
 ## Profile Views
